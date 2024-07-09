@@ -1,10 +1,10 @@
-import CryptoConverter from './CryptoConverter'
+import { MainPage } from './components/mainPage'
+
 
 function App() {
 	return (
 		<>
-			<h1>Crypto Converter</h1>
-			<CryptoConverter />
+		<MainPage></MainPage>
 		</>
 	)
 }
