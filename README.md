@@ -14,7 +14,7 @@ Welcome to the crypto-conversions platform, this site was created to quickly and
 - **Cryptocurrency conversion:** You can easily and quickly convert one cryptocurrency to another at the current rate.
 
 
-## Stack 🛠️
+## Stack
 - React.js
 - TypeScript
 - Tailwind CSS
@@ -22,7 +22,7 @@ Welcome to the crypto-conversions platform, this site was created to quickly and
 - Axios
 - Vite
 
-## Quick Start 🚀
+## Quick Start
 Follow these steps to set up the project locally on your machine.
 
 ### Prerequisites
