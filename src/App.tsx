@@ -1,10 +1,10 @@
-import { MainPage } from './components/mainPage'
-
+// Page
+import { MainPage } from '@/pages/mainPage'
 
 function App() {
 	return (
 		<>
-		<MainPage></MainPage>
+			<MainPage />
 		</>
 	)
 }

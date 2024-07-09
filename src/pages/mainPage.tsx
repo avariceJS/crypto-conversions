@@ -1,6 +1,5 @@
-'use client'
-
-import CryptoConverter from '../CryptoConverter'
+// Widgets
+import CryptoConverter from '@/widgets/CryptoConverter'
 
 export function MainPage() {
 	return (
