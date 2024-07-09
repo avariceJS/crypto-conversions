@@ -34,7 +34,7 @@ const CurrencySelector: React.FC<CurrencySelectorProps> = ({
 	return (
 		<div className='flex flex-col items-center space-y-4'>
 			<label className='text-lg font-semibold'>{label}</label>
-			<div className='flex items-center space-x-2'>
+			<div className='flex items-center space-x-2 mr-2'>
 				{iconForCurrency(currency)}
 				<select
 					value={currency}
